@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatelaveo&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpatelaveo" /> </p>
 
-- 🌱 I’m currently learning **react-navtive**
-
 - 💬 Ask me about **Flutter,**
 
 - 📫 How to reach me **pavan.p@aveosoft.com**
